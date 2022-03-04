@@ -10,19 +10,19 @@
 
 Project details on [GitHub Pages](https://aidaaminian.github.io/Syntax-Highlighter/).
 
-### Tools
+## Tools
 - [Jflex -  Lexical Analyzer Generator](https://www.jflex.de/)
 
-### How to use
+## How to use
 - Run the program 
 - Enter input and output file locations
 
-### TODO
+## TODO
 - Add Unit Test
 - Fix multiline comment 
 - Add other special characters
 
-### Contributing 
+## Contributing 
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
