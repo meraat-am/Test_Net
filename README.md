@@ -6,7 +6,7 @@
 
 # Syntax Highlighter
 # Compiler Fall 2021 Course Project (Phase1)
-## Syntax highlighter for a C-like language using JFlex
+Syntax highlighter for a C-like language using JFlex
 
 Project details on [GitHub Pages](https://aidaaminian.github.io/Syntax-Highlighter/).
 
